@@ -215,7 +215,7 @@ Except for the lowest one, "No Access", each permission level is cumulative with
 </tr>
 <tr>
 <td>Assigned as **Default Role**</td>
-<td>The user can create new applications in the **environment** through Service Studio and Service Center (by uploading and publishing). The user can also create new applications in **any team** through LifeTime.</td>
+<td>The user can create new applications in the **environment** through Service Studio and Service Center (by uploading and publishing). The user can also create new applications in **any team** through LifeTime. Requirement: Change and Deploy permission.</td>
 </tr>
 <tr>
 <td>Assigned for a **Team**</td>
@@ -233,7 +233,7 @@ Except for the lowest one, "No Access", each permission level is cumulative with
 </tr>
 <tr>
 <td>Assigned as **Default Role**</td>
-<td>In the applications for which the user has Change and Deploy permission, the user can add new dependencies to the public elements of System module.</td>
+<td>In the applications for which the user has Access permission, the user can add new dependencies to the public elements of System module.</td>
 </tr>
 <tr>
 <td>Assigned for a **Team**</td>
